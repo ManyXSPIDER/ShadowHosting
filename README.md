@@ -59,7 +59,7 @@ Start Your Bot and Manage it Through The ShadowHosting Panel.
 
 | Resource         | Link                                           |
 | ---------------- | ---------------------------------------------- |
-| 🌐 Website       | https://dash.shadowhostingx.dpdns.org/         |
+| 🌐 Landing       | https://dash.shadowhostingx.dpdns.org/         |
 | 🚀 Register      | https://dash.shadowhostingx.dpdns.org/register |
 | 🔐 Login         | https://dash.shadowhostingx.dpdns.org/login    |
 | 📖 Documentation | Coming soon                                    |
@@ -74,7 +74,7 @@ Host Your Discord Bots With An Easy-To-Use Management Panel.
 
 Supported Bot Environments Can Include Common Runtimes such as:
 
-* Node.js
+* NodeJs
 * Python
 ---
 
@@ -100,11 +100,11 @@ https://dash.shadowhostingx.dpdns.org/
 
 ---
 
-## 🔗 Official Website
+## 🔗 Trust Open Source - Pterodactyl
 
 <div align="center">
 
-### 🌐 https://dash.shadowhostingx.dpdns.org/
+### 🌐 https://dash.shadowhostingx.dpdns.org
 
 **ShadowHosting — Discord Bot & Telegram Hosting**
 
