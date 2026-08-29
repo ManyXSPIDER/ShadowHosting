@@ -6,7 +6,7 @@
 
 ### Discord Bot & Telegram Hosting
 
-Reliable, easy-to-use hosting for **Discord Bots** and **Telegram Bots** with simple deployment and 24/7 online hosting.
+Reliable, Easy-to-use Hosting for **Discord Bots** and **Telegram Bots** with Simple Deployment and 24/7 Online Hosting.
 
 [🌐 Visit ShadowHosting](https://dash.shadowhostingx.dpdns.org/) • [🚀 Create an Account](https://dash.shadowhostingx.dpdns.org/register) • [🔐 Login](https://dash.shadowhostingx.dpdns.org/login)
 
@@ -16,9 +16,9 @@ Reliable, easy-to-use hosting for **Discord Bots** and **Telegram Bots** with si
 
 ## 🚀 About ShadowHosting
 
-**ShadowHosting** provides hosting designed for Discord and Telegram bot projects.
+**ShadowHosting** Provides Hosting Designed for Discord and Telegram bot Projects | Python | NodeJs.
 
-Whether you're running a small personal bot or a larger community bot, ShadowHosting gives you an easy way to deploy and manage your application.
+Whether you're Running a Small Personal Bot or a Larger Community Bot, ShadowHosting Gives You An Easy Way To Deploy and Manage Your Application.
 
 ### ✨ Features
 
@@ -26,10 +26,10 @@ Whether you're running a small personal bot or a larger community bot, ShadowHos
 * 📱 Telegram Bot Hosting
 * ⚡ Easy Deployment
 * 🟢 24/7 Online Hosting
-* 🖥️ Web-Based Management Panel
+* 🖥️ Web-Based Panel Call Pterodactyl
 * 📦 Simple Application Management
 * 🚀 Fast Deployment
-* 💻 Developer Friendly
+* 💻 Made by ShadowGamerzNET, Jasice_37, ManyXSPIDER
 
 ---
 
@@ -37,21 +37,21 @@ Whether you're running a small personal bot or a larger community bot, ShadowHos
 
 ### 1. Create your account
 
-Create your ShadowHosting account:
+Create Your ShadowHosting Account:
 
 **https://dash.shadowhostingx.dpdns.org/register**
 
-### 2. Choose your hosting
+### 2. Choose Your Hosting
 
-Select the hosting resources that fit your bot.
+Select the hosting Resources That fit Your Bot.
 
-### 3. Deploy your bot
+### 3. Deploy Your bot
 
-Upload or deploy your bot and configure your application.
+Upload or Deploy Your Bot and Configure Your application.
 
-### 4. Keep your bot online
+### 4. 24/7 Unlimited
 
-Start your bot and manage it through the ShadowHosting panel.
+Start Your Bot and Manage it Through The ShadowHosting Panel.
 
 ---
 
@@ -86,11 +86,13 @@ Deploy and keep your Telegram bots online with ShadowHosting.
 
 Build your bot, upload your project, configure the required environment, and start it from the panel.
 
+Tip: Click on Startup Icon To Edit your app configure startup command & file name to start the app Run a Bot from github repo
+
 ---
 
 ## 🖥️ ShadowHosting Panel
 
-Manage your applications from a web-based control panel.
+Manage Your Applications from a Web-based Control Panel.
 
 **Panel:**
 
@@ -102,11 +104,6 @@ https://dash.shadowhostingx.dpdns.org/
 
 More screenshots coming soon.
 
-<!-- Add screenshots here later:
-
-![ShadowHosting Dashboard](assets/dashboard.png)
-
--->
 
 ---
 
@@ -124,9 +121,9 @@ More screenshots coming soon.
 
 ## 📢 About This Repository
 
-This repository contains information, documentation, and resources related to ShadowHosting.
+This Repository Contains Information, Documentation, and Resources Related to ShadowHosting.
 
-It is **not** the source code of the ShadowHosting infrastructure.
+It is **not** the Source code of the ShadowHosting Infrastructure.
 
 ---
 
@@ -134,6 +131,6 @@ It is **not** the source code of the ShadowHosting infrastructure.
 
 **© ShadowHosting**
 
-Made for developers building Discord and Telegram bots.
+Made for Developers Building Discord and Telegram Bots
 
 </div>
