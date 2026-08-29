@@ -14,6 +14,24 @@ Reliable, Easy-to-use Hosting for **Discord Bots** and **Telegram Bots** with Si
 
 ---
 
+<div align="center">
+
+### ⭐ Support ShadowHosting
+
+**If you Like ShadowHosting, Please Star ⭐ and Watch This Repository! Help us**
+
+[⭐ Star Repository](../../stargazers) • [👀 Watch Repository](../../watchers) • [🌐 Visit Website](https://dash.shadowhostingx.dpdns.org/)
+
+<br>
+
+![GitHub Stars](https://img.shields.io/github/stars/ManyXSPIDER/ShadowHosting?style=for-the-badge\&logo=github)
+![GitHub Watchers](https://img.shields.io/github/watchers/ManyXSPIDER/ShadowHosting?style=for-the-badge\&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/ManyXSPIDER/ShadowHosting?style=for-the-badge\&logo=github)
+
+</div>
+
+---
+
 ## 🚀 About ShadowHosting
 
 **ShadowHosting** Provides Hosting Designed for Discord and Telegram bot Projects | Python | NodeJs.
@@ -76,6 +94,7 @@ Supported Bot Environments Can Include Common Runtimes such as:
 
 * NodeJs
 * Python
+
 ---
 
 ## 📱 Telegram Bot Hosting
