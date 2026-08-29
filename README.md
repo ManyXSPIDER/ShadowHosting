@@ -7,6 +7,7 @@
 ### Discord Bot & Telegram Hosting
 
 Reliable, Easy-to-use Hosting for **Discord Bots** and **Telegram Bots** with Simple Deployment and 24/7 Online Hosting.
+Please This Website Just newly Started Maybe [ Some Bug / Error / Issues / Shutdown ] we sorry if you're using It currently testing
 
 [🌐 Visit ShadowHosting](https://dash.shadowhostingx.dpdns.org/) • [🚀 Create an Account](https://dash.shadowhostingx.dpdns.org/register) • [🔐 Login](https://dash.shadowhostingx.dpdns.org/login)
 
