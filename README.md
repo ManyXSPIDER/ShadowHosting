@@ -70,14 +70,12 @@ Start Your Bot and Manage it Through The ShadowHosting Panel.
 
 ## 🤖 Discord Bot Hosting
 
-Host your Discord bots with an easy-to-use management panel.
+Host Your Discord Bots With An Easy-To-Use Management Panel.
 
-Supported bot environments can include common runtimes such as:
+Supported Bot Environments Can Include Common Runtimes such as:
 
 * Node.js
 * Python
-* Other supported applications
-
 ---
 
 ## 📱 Telegram Bot Hosting
@@ -86,7 +84,9 @@ Deploy and keep your Telegram bots online with ShadowHosting.
 
 Build your bot, upload your project, configure the required environment, and start it from the panel.
 
-Tip: Click on Startup Icon To Edit your app configure startup command & file name to start the app Run a Bot from github repo
+Tip: Click on Startup Icon To Edit your app configure startup command & file name to start the app & Run a Bot from github repo & more
+
+Open Source & Trust Website
 
 ---
 
@@ -97,13 +97,6 @@ Manage Your Applications from a Web-based Control Panel.
 **Panel:**
 
 https://dash.shadowhostingx.dpdns.org/
-
----
-
-## 📸 Screenshots
-
-More screenshots coming soon.
-
 
 ---
 
@@ -123,7 +116,7 @@ More screenshots coming soon.
 
 This Repository Contains Information, Documentation, and Resources Related to ShadowHosting.
 
-It is **not** the Source code of the ShadowHosting Infrastructure.
+It Is **not** the Source code of the ShadowHosting Infrastructure.
 
 ---
 
