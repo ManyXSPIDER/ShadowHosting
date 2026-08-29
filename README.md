@@ -90,13 +90,13 @@ Open Source & Trust Website
 
 ---
 
-## 🖥️ ShadowHosting Panel
+## 🖥️ ShadowHosting Registering
 
 Manage Your Applications from a Web-based Control Panel.
 
-**Panel:**
+**Registered:**
 
-https://dash.shadowhostingx.dpdns.org/
+https://dash.shadowhostingx.dpdns.org/register
 
 ---
 
