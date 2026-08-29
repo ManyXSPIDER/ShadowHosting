@@ -32,19 +32,19 @@ Reliable, Easy-to-use Hosting for **Discord Bots** and **Telegram Bots** with Si
 
 ---
 
-## 🌐 ShadowHosting Website
+## 🌐 ShadowHosting Preview
 
 <div align="center">
 
 <a href="https://dash.shadowhostingx.dpdns.org/">
 
-<img src="https://image.thum.io/get/width/1200/crop/800/https://dash.shadowhostingx.dpdns.org/" alt="ShadowHosting Website Preview" width="900">
+<img src="https://image.thum.io/get/width/1200/crop/800/https://dash.shadowhostingx.dpdns.org/" alt="ShadowHostingPreview" width="900">
 
 </a>
 
-### 👆 Click the Website Preview
+### 👆 Click The Preview to go in site or 👇
 
-[🌐 **Open ShadowHosting Website**](https://dash.shadowhostingx.dpdns.org/)
+[🌐 **Open ShadowHosting**](https://dash.shadowhostingx.dpdns.org/)
 
 </div>
 
