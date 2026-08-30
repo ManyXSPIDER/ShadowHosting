@@ -109,6 +109,8 @@ Start Your Bot and Manage it Through The ShadowHosting Panel.
 
 Host Your Discord Bots With An Easy-To-Use Management Panel.
 
+Run and Python / JavaScript Apps
+
 Supported Bot Environments Can Include Common Runtimes such as:
 
 * NodeJs
